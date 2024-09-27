@@ -1,0 +1,12 @@
+0 end
+1 start
+2 R
+3 Rp
+4 L
+5 Lp
+6 D
+7 Dp
+8 B
+9 Bp
+10 F
+11 Fp
